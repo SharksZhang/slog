@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/839m5piLe3TonKs6VGzZ668Rw0=",
+			"path": "github.com/cznic/internal/buffer",
+			"revision": "f44710a21d00af8b5c8d1b3ff5f141fe5cb9b9eb",
+			"revisionTime": "2018-06-08T15:22:20Z"
+		},
+		{
+			"checksumSHA1": "sIFhykv6o1TIyaFHWp8uDio8sTc=",
+			"path": "github.com/cznic/internal/slice",
+			"revision": "f44710a21d00af8b5c8d1b3ff5f141fe5cb9b9eb",
+			"revisionTime": "2018-06-08T15:22:20Z"
+		},
+		{
+			"checksumSHA1": "sqfwefXUZII+2kjcnMJnYRaFmsg=",
+			"path": "github.com/cznic/mathutil",
+			"revision": "eba54fb065b72d838b4b3481c6056998ead55e74",
+			"revisionTime": "2018-10-21T20:12:02Z"
+		},
+		{
+			"checksumSHA1": "cBDjw6mDDHwvI8ji+leQmrpm5qw=",
+			"path": "github.com/cznic/zappy",
+			"revision": "2533cb5b45cc6c07421468ce262899ddc9d53fb7",
+			"revisionTime": "2016-07-23T13:35:15Z"
+		},
+		{
+			"checksumSHA1": "Ckkk75h7Xhrc3b+QJ3oqbIrGsaY=",
+			"path": "github.com/mailru/easyjson",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "T8soMJArSZrYnhmdpAnq1bVxQ6Q=",
+			"path": "github.com/mailru/easyjson/buffer",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "zErZOOMVWCO/Z1WGWBAG9VdccQc=",
+			"path": "github.com/mailru/easyjson/jlexer",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "4BAeeJ7JywEQyR6GqRrxfSfN2/Q=",
+			"path": "github.com/mailru/easyjson/jwriter",
+			"revision": "60711f1a8329503b04e1c88535f419d0bb440bff",
+			"revisionTime": "2018-08-23T13:54:43Z"
+		},
+		{
+			"checksumSHA1": "N4NQU0O2rK3hBtB3nBDHrSzqrbM=",
+			"path": "github.com/remyoudompheng/bigfft",
+			"revision": "52369c62f4463a21c8ff8531194c5526322b8521",
+			"revisionTime": "2017-08-06T20:39:42Z"
+		}
+	],
+	"rootPath": "github.com/SharksZhang/slog"
+}

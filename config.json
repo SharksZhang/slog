@@ -1,0 +1,6 @@
+{
+  "log_dir_path":"/log",
+  "concurrent_num":10,
+  "cache":1024,
+  "tcp_port":8080
+}
